@@ -1,0 +1,713 @@
+<html><head><title></title></head><body><table border=1><tr><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">ClientName</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">AppDesc</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">LogDate</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">PageName</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">MinResTime</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">MaxResTime</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">00:00:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">00:15:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">00:30:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">00:45:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">01:03:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">01:10:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">01:24:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">01:39:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">01:54:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">02:09:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">02:28:27</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">02:30:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">02:46:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">02:58:28</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">03:09:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">03:24:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">03:39:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">03:54:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">04:09:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">04:24:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">04:43:23</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">04:54:01</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">05:13:31</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">05:24:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">05:44:23</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">05:45:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">06:01:08</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">06:11:44</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">06:24:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">06:39:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">06:54:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">07:09:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">07:27:57</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">07:30:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">07:45:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">08:14:29</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">08:24:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">08:39:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">08:54:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">09:09:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">09:24:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">09:39:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">09:54:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">10:09:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">10:24:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">10:39:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">10:54:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">11:09:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">11:24:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">11:39:02</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">11:54:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">12:09:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">12:24:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">12:30:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">12:51:27</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">13:02:10</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">13:11:41</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">13:24:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">13:39:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">13:54:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">14:09:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">14:24:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">14:39:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">14:54:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">15:09:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">15:24:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">15:39:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">15:54:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">16:09:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">16:24:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">16:39:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">16:54:03</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">17:09:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">17:24:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">17:39:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">17:54:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">18:09:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">18:24:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">18:39:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">18:54:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">19:09:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">19:24:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">19:39:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">19:54:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">20:09:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">20:24:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">20:39:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">20:54:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">21:09:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">21:24:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">21:39:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">21:54:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">22:09:04</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">22:15:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">22:30:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">22:45:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">23:00:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">23:15:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">23:30:00</td><td style="background-color:#C1BC27;color:BLACK;text-align: center;font-weight:bold">23:45:00</td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">EMT Landing Page</td><td style="text-align: center">4</td><td style="text-align: center">10</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">9.51</td><td style="text-align: center">9.53</td><td style="text-align: center">7.228</td><td style="text-align: center">7.516</td><td style="text-align: center">7.856</td><td style="text-align: center">9.515</td><td style="text-align: center;background-color:#FF0000">14.563</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">15.516</td><td style="text-align: center;background-color:#FF0000">13.575</td><td style="text-align: center">8.527</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">7.535</td><td style="text-align: center">7.85</td><td style="text-align: center">7.534</td><td style="text-align: center">6.879</td><td style="text-align: center;background-color:#FF0000">13.246</td><td style="text-align: center">7.874</td><td style="text-align: center;background-color:#FF0000">15.228</td><td style="text-align: center">7.184</td><td style="text-align: center;background-color:#FF0000">14.23</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">19.893</td><td style="text-align: center;background-color:#FF0000">11.275</td><td style="text-align: center">6.835</td><td style="text-align: center">8.847</td><td style="text-align: center">6.879</td><td style="text-align: center">9.484</td><td style="text-align: center;background-color:#FF0000">13.179</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">15.55</td><td style="text-align: center">9.541</td><td style="text-align: center">7.189</td><td style="text-align: center">7.209</td><td style="text-align: center">7.548</td><td style="text-align: center">8.179</td><td style="text-align: center">7.586</td><td style="text-align: center">7.859</td><td style="text-align: center">7.544</td><td style="text-align: center">7.547</td><td style="text-align: center">6.853</td><td style="text-align: center">9.186</td><td style="text-align: center">7.893</td><td style="text-align: center">9.159</td><td style="text-align: center">7.201</td><td style="text-align: center">6.882</td><td style="text-align: center;background-color:#FF0000">11.88</td><td style="text-align: center">9.149</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">19.88</td><td style="text-align: center;background-color:#FF0000">11.588</td><td style="text-align: center;background-color:#FF0000">15.871</td><td style="text-align: center">7.537</td><td style="text-align: center">7.853</td><td style="text-align: center">6.903</td><td style="text-align: center">7.516</td><td style="text-align: center">8.182</td><td style="text-align: center">7.531</td><td style="text-align: center">7.871</td><td style="text-align: center">8.179</td><td style="text-align: center">7.868</td><td style="text-align: center">7.537</td><td style="text-align: center">7.53</td><td style="text-align: center">7.851</td><td style="text-align: center">7.548</td><td style="text-align: center">7.207</td><td style="text-align: center">7.198</td><td style="text-align: center">7.247</td><td style="text-align: center">7.178</td><td style="text-align: center">7.202</td><td style="text-align: center">7.188</td><td style="text-align: center">7.531</td><td style="text-align: center">7.556</td><td style="text-align: center">7.544</td><td style="text-align: center">8.8</td><td style="text-align: center">7.85</td><td style="text-align: center">8.523</td><td style="text-align: center">7.559</td><td style="text-align: center">7.572</td><td style="text-align: center">7.205</td><td style="text-align: center">7.843</td><td style="text-align: center">7.852</td><td style="text-align: center">7.531</td><td style="text-align: center">7.172</td><td style="text-align: center">7.224</td><td style="text-align: center">7.544</td><td style="text-align: center">7.201</td><td style="text-align: center">7.198</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Login Page</td><td style="text-align: center">0.5</td><td style="text-align: center">2</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">8.229</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Password Entry Page</td><td style="text-align: center">0.5</td><td style="text-align: center">2</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Enter Year Of Birth Page</td><td style="text-align: center">0.5</td><td style="text-align: center">2</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Dashboard Page</td><td style="text-align: center">1</td><td style="text-align: center">4</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.878</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.559</td><td style="text-align: center;background-color:#FF0000">5.288</td><td style="text-align: center;background-color:#FF0000">4.573</td><td style="text-align: center;background-color:#FF0000">4.881</td><td style="text-align: center;background-color:#FF0000">5.257</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.235</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.89</td><td style="text-align: center;background-color:#FF0000">4.599</td><td style="text-align: center;background-color:#FF0000">4.609</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.258</td><td style="text-align: center;background-color:#FF0000">4.26</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.568</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.242</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.578</td><td style="text-align: center;background-color:#FF0000">4.266</td><td style="text-align: center;background-color:#FF0000">4.59</td><td style="text-align: center;background-color:#FF0000">4.217</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.901</td><td style="text-align: center;background-color:#FF0000">5.221</td><td style="text-align: center;background-color:#FF0000">6.934</td><td style="text-align: center;background-color:#FF0000">6.283</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.276</td><td style="text-align: center;background-color:#FF0000">4.274</td><td style="text-align: center">3.917</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.571</td><td style="text-align: center;background-color:#FF0000">5.252</td><td style="text-align: center;background-color:#FF0000">4.259</td><td style="text-align: center">3.93</td><td style="text-align: center;background-color:#FF0000">6.27</td><td style="text-align: center;background-color:#FF0000">4.942</td><td style="text-align: center;background-color:#FF0000">4.56</td><td style="text-align: center;background-color:#FF0000">4.579</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.957</td><td style="text-align: center;background-color:#FF0000">4.933</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.239</td><td style="text-align: center;background-color:#FF0000">4.217</td><td style="text-align: center;background-color:#FF0000">4.588</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.888</td><td style="text-align: center;background-color:#FF0000">4.273</td><td style="text-align: center">3.937</td><td style="text-align: center">3.905</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.546</td><td style="text-align: center;background-color:#FF0000">5.226</td><td style="text-align: center;background-color:#FF0000">4.902</td><td style="text-align: center;background-color:#FF0000">4.248</td><td style="text-align: center;background-color:#FF0000">4.543</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.612</td><td style="text-align: center;background-color:#FF0000">5.269</td><td style="text-align: center;background-color:#FF0000">5.93</td><td style="text-align: center;background-color:#FF0000">4.885</td><td style="text-align: center;background-color:#FF0000">4.919</td><td style="text-align: center;background-color:#FF0000">4.576</td><td style="text-align: center;background-color:#FF0000">6.256</td><td style="text-align: center;background-color:#FF0000">4.911</td><td style="text-align: center;background-color:#FF0000">5.232</td><td style="text-align: center;background-color:#FF0000">5.231</td><td style="text-align: center;background-color:#FF0000">4.895</td><td style="text-align: center;background-color:#FF0000">4.256</td><td style="text-align: center;background-color:#FF0000">4.556</td><td style="text-align: center">3.918</td><td style="text-align: center;background-color:#FF0000">4.25</td><td style="text-align: center;background-color:#FF0000">5.216</td><td style="text-align: center;background-color:#FF0000">5.209</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.555</td><td style="text-align: center;background-color:#FF0000">5.246</td><td style="text-align: center;background-color:#FF0000">4.258</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Watchlist Page</td><td style="text-align: center">1</td><td style="text-align: center">3</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.577</td><td style="text-align: center;background-color:#FF0000">8.234</td><td style="text-align: center;background-color:#FF0000">5.915</td><td style="text-align: center;background-color:#FF0000">5.899</td><td style="text-align: center;background-color:#FF0000">6.255</td><td style="text-align: center;background-color:#FF0000">6.214</td><td style="text-align: center;background-color:#FF0000">4.205</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.575</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.884</td><td style="text-align: center;background-color:#FF0000">6.246</td><td style="text-align: center;background-color:#FF0000">4.541</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.532</td><td style="text-align: center;background-color:#FF0000">4.556</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.898</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.556</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.901</td><td style="text-align: center;background-color:#FF0000">4.902</td><td style="text-align: center;background-color:#FF0000">7.254</td><td style="text-align: center;background-color:#FF0000">7.257</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.867</td><td style="text-align: center;background-color:#FF0000">4.55</td><td style="text-align: center;background-color:#FF0000">5.869</td><td style="text-align: center;background-color:#FF0000">5.557</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.558</td><td style="text-align: center;background-color:#FF0000">7.87</td><td style="text-align: center;background-color:#FF0000">4.871</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.883</td><td style="text-align: center;background-color:#FF0000">5.923</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">7.596</td><td style="text-align: center;background-color:#FF0000">4.229</td><td style="text-align: center;background-color:#FF0000">5.585</td><td style="text-align: center;background-color:#FF0000">3.88</td><td style="text-align: center;background-color:#FF0000">4.873</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.255</td><td style="text-align: center;background-color:#FF0000">4.561</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.194</td><td style="text-align: center;background-color:#FF0000">7.243</td><td style="text-align: center;background-color:#FF0000">5.207</td><td style="text-align: center;background-color:#FF0000">6.603</td><td style="text-align: center;background-color:#FF0000">6.902</td><td style="text-align: center;background-color:#FF0000">4.864</td><td style="text-align: center;background-color:#FF0000">5.911</td><td style="text-align: center;background-color:#FF0000">4.236</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.237</td><td style="text-align: center;background-color:#FF0000">5.922</td><td style="text-align: center;background-color:#FF0000">5.257</td><td style="text-align: center;background-color:#FF0000">6.915</td><td style="text-align: center;background-color:#FF0000">5.258</td><td style="text-align: center;background-color:#FF0000">3.597</td><td style="text-align: center;background-color:#FF0000">7.258</td><td style="text-align: center;background-color:#FF0000">6.24</td><td style="text-align: center;background-color:#FF0000">6.261</td><td style="text-align: center;background-color:#FF0000">6.584</td><td style="text-align: center;background-color:#FF0000">6.225</td><td style="text-align: center;background-color:#FF0000">7.23</td><td style="text-align: center;background-color:#FF0000">5.554</td><td style="text-align: center;background-color:#FF0000">6.934</td><td style="text-align: center;background-color:#FF0000">6.578</td><td style="text-align: center;background-color:#FF0000">7.519</td><td style="text-align: center;background-color:#FF0000">6.576</td><td style="text-align: center;background-color:#FF0000">6.581</td><td style="text-align: center;background-color:#FF0000">5.631</td><td style="text-align: center;background-color:#FF0000">5.6</td><td style="text-align: center;background-color:#FF0000">6.573</td><td style="text-align: center;background-color:#FF0000">7.247</td><td style="text-align: center;background-color:#FF0000">6.238</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">6.226</td><td style="text-align: center;background-color:#FF0000">7.233</td><td style="text-align: center;background-color:#FF0000">4.57</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Trade window Page</td><td style="text-align: center">1</td><td style="text-align: center">3</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.227</td><td style="text-align: center">1.926</td><td style="text-align: center">2.277</td><td style="text-align: center">1.274</td><td style="text-align: center">2.87</td><td style="text-align: center">2.545</td><td style="text-align: center">1.847</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.623</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.889</td><td style="text-align: center">1.919</td><td style="text-align: center">1.872</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.201</td><td style="text-align: center">1.532</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.835</td><td style="text-align: center">2.217</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.176</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.639</td><td style="text-align: center">1.85</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.7</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.203</td><td style="text-align: center">1.876</td><td style="text-align: center">2.214</td><td style="text-align: center">1.934</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.558</td><td style="text-align: center;background-color:#FF0000">3.236</td><td style="text-align: center">1.919</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.874</td><td style="text-align: center">1.563</td><td style="text-align: center">1.544</td><td style="text-align: center">2.57</td><td style="text-align: center">1.847</td><td style="text-align: center">2.526</td><td style="text-align: center">1.871</td><td style="text-align: center">1.851</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.92</td><td style="text-align: center">1.893</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.858</td><td style="text-align: center">2.234</td><td style="text-align: center">1.613</td><td style="text-align: center">2.262</td><td style="text-align: center">1.212</td><td style="text-align: center">1.9</td><td style="text-align: center">1.582</td><td style="text-align: center">1.865</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.578</td><td style="text-align: center">2.544</td><td style="text-align: center">1.553</td><td style="text-align: center">2.562</td><td style="text-align: center">1.579</td><td style="text-align: center">1.528</td><td style="text-align: center">2.584</td><td style="text-align: center">1.92</td><td style="text-align: center">2.512</td><td style="text-align: center">2.582</td><td style="text-align: center">2.185</td><td style="text-align: center">1.915</td><td style="text-align: center">1.545</td><td style="text-align: center">1.574</td><td style="text-align: center">1.585</td><td style="text-align: center">2.554</td><td style="text-align: center">1.627</td><td style="text-align: center">1.574</td><td style="text-align: center">1.565</td><td style="text-align: center">1.979</td><td style="text-align: center">1.932</td><td style="text-align: center">1.892</td><td style="text-align: center">1.56</td><td style="text-align: center">1.873</td><td style="text-align: center">2.237</td><td style="text-align: center">1.801</td><td style="text-align: center">1.847</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Buy Order Page</td><td style="text-align: center">1</td><td style="text-align: center">3</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.273</td><td style="text-align: center">2.22</td><td style="text-align: center">2.922</td><td style="text-align: center">2.557</td><td style="text-align: center">2.866</td><td style="text-align: center;background-color:#FF0000">3.222</td><td style="text-align: center">2.907</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.577</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.574</td><td style="text-align: center;background-color:#FF0000">3.936</td><td style="text-align: center">2.502</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.213</td><td style="text-align: center">2.522</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.255</td><td style="text-align: center;background-color:#FF0000">4.596</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.95</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.568</td><td style="text-align: center;background-color:#FF0000">3.236</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.228</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.844</td><td style="text-align: center">2.542</td><td style="text-align: center">2.61</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.91</td><td style="text-align: center;background-color:#FF0000">3.282</td><td style="text-align: center;background-color:#FF0000">3.589</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.251</td><td style="text-align: center">2.594</td><td style="text-align: center">1.553</td><td style="text-align: center">2.544</td><td style="text-align: center;background-color:#FF0000">3.912</td><td style="text-align: center;background-color:#FF0000">3.245</td><td style="text-align: center">2.57</td><td style="text-align: center;background-color:#FF0000">3.235</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.636</td><td style="text-align: center;background-color:#FF0000">3.251</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.249</td><td style="text-align: center">2.54</td><td style="text-align: center">2.592</td><td style="text-align: center">2.833</td><td style="text-align: center">2.578</td><td style="text-align: center">2.91</td><td style="text-align: center">2.219</td><td style="text-align: center">2.919</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">2.585</td><td style="text-align: center;background-color:#FF0000">3.244</td><td style="text-align: center">2.601</td><td style="text-align: center">2.878</td><td style="text-align: center">2.6</td><td style="text-align: center;background-color:#FF0000">3.238</td><td style="text-align: center">2.918</td><td style="text-align: center">2.915</td><td style="text-align: center">2.864</td><td style="text-align: center">2.921</td><td style="text-align: center">2.901</td><td style="text-align: center">2.547</td><td style="text-align: center">2.575</td><td style="text-align: center">2.924</td><td style="text-align: center">2.926</td><td style="text-align: center">2.536</td><td style="text-align: center">2.9</td><td style="text-align: center">2.59</td><td style="text-align: center">2.91</td><td style="text-align: center;background-color:#FF0000">3.252</td><td style="text-align: center">2.914</td><td style="text-align: center">2.581</td><td style="text-align: center">2.553</td><td style="text-align: center">1.872</td><td style="text-align: center">2.928</td><td style="text-align: center">2.587</td><td style="text-align: center">2.915</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Order Status Page</td><td style="text-align: center">1</td><td style="text-align: center">3</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.261</td><td style="text-align: center;background-color:#FF0000">4.951</td><td style="text-align: center;background-color:#FF0000">3.272</td><td style="text-align: center">2.927</td><td style="text-align: center;background-color:#FF0000">3.57</td><td style="text-align: center;background-color:#FF0000">3.892</td><td style="text-align: center;background-color:#FF0000">3.588</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.251</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.599</td><td style="text-align: center;background-color:#FF0000">4.266</td><td style="text-align: center;background-color:#FF0000">3.283</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.249</td><td style="text-align: center">2.986</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">15.588</td><td style="text-align: center">2.943</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.238</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.575</td><td style="text-align: center;background-color:#FF0000">4.977</td><td style="text-align: center;background-color:#FF0000">4.554</td><td style="text-align: center;background-color:#FF0000">3.562</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.94</td><td style="text-align: center;background-color:#FF0000">4.3</td><td style="text-align: center;background-color:#FF0000">3.251</td><td style="text-align: center;background-color:#FF0000">3.889</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.886</td><td style="text-align: center;background-color:#FF0000">4.254</td><td style="text-align: center;background-color:#FF0000">3.588</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.601</td><td style="text-align: center;background-color:#FF0000">3.289</td><td style="text-align: center;background-color:#FF0000">3.654</td><td style="text-align: center;background-color:#FF0000">3.46</td><td style="text-align: center;background-color:#FF0000">4.932</td><td style="text-align: center;background-color:#FF0000">3.914</td><td style="text-align: center;background-color:#FF0000">3.604</td><td style="text-align: center;background-color:#FF0000">3.27</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.917</td><td style="text-align: center;background-color:#FF0000">3.95</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.273</td><td style="text-align: center;background-color:#FF0000">3.605</td><td style="text-align: center;background-color:#FF0000">3.642</td><td style="text-align: center;background-color:#FF0000">5.642</td><td style="text-align: center;background-color:#FF0000">3.588</td><td style="text-align: center;background-color:#FF0000">3.917</td><td style="text-align: center;background-color:#FF0000">3.92</td><td style="text-align: center;background-color:#FF0000">4.278</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">3.617</td><td style="text-align: center;background-color:#FF0000">4.937</td><td style="text-align: center;background-color:#FF0000">3.598</td><td style="text-align: center;background-color:#FF0000">3.62</td><td style="text-align: center;background-color:#FF0000">3.594</td><td style="text-align: center;background-color:#FF0000">3.237</td><td style="text-align: center">2.928</td><td style="text-align: center;background-color:#FF0000">3.626</td><td style="text-align: center;background-color:#FF0000">5.204</td><td style="text-align: center;background-color:#FF0000">3.577</td><td style="text-align: center;background-color:#FF0000">5.261</td><td style="text-align: center;background-color:#FF0000">3.533</td><td style="text-align: center;background-color:#FF0000">3.924</td><td style="text-align: center;background-color:#FF0000">3.923</td><td style="text-align: center;background-color:#FF0000">5.24</td><td style="text-align: center;background-color:#FF0000">4.257</td><td style="text-align: center;background-color:#FF0000">3.275</td><td style="text-align: center;background-color:#FF0000">3.252</td><td style="text-align: center;background-color:#FF0000">3.636</td><td style="text-align: center;background-color:#FF0000">3.615</td><td style="text-align: center;background-color:#FF0000">3.605</td><td style="text-align: center;background-color:#FF0000">3.6</td><td style="text-align: center;background-color:#FF0000">3.269</td><td style="text-align: center;background-color:#FF0000">3.244</td><td style="text-align: center;background-color:#FF0000">3.291</td><td style="text-align: center;background-color:#FF0000">3.623</td><td style="text-align: center;background-color:#FF0000">3.609</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Rejected Reason Page</td><td style="text-align: center">1</td><td style="text-align: center">3</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.596</td><td style="text-align: center">2.286</td><td style="text-align: center">1.616</td><td style="text-align: center">1.262</td><td style="text-align: center">1.916</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.931</td><td style="text-align: center">1.918</td><td style="text-align: center">1.574</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.593</td><td style="text-align: center">1.574</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.516</td><td style="text-align: center">1.273</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.547</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.923</td><td style="text-align: center">1.903</td><td style="text-align: center">1.483</td><td style="text-align: center">1.859</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.949</td><td style="text-align: center">1.571</td><td style="text-align: center">1.592</td><td style="text-align: center">1.168</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.933</td><td style="text-align: center">1.88</td><td style="text-align: center">1.88</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.62</td><td style="text-align: center">1.557</td><td style="text-align: center">1.918</td><td style="text-align: center">2.031</td><td style="text-align: center">1.538</td><td style="text-align: center">1.955</td><td style="text-align: center">1.592</td><td style="text-align: center">1.576</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.916</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.91</td><td style="text-align: center">1.556</td><td style="text-align: center">1.579</td><td style="text-align: center">2.223</td><td style="text-align: center">1.616</td><td style="text-align: center">1.912</td><td style="text-align: center">1.955</td><td style="text-align: center">2.205</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center">1.595</td><td style="text-align: center">2.285</td><td style="text-align: center">1.611</td><td style="text-align: center">1.622</td><td style="text-align: center">1.928</td><td style="text-align: center">1.9</td><td style="text-align: center">1.575</td><td style="text-align: center">1.603</td><td style="text-align: center">1.913</td><td style="text-align: center">1.61</td><td style="text-align: center">2.232</td><td style="text-align: center">1.625</td><td style="text-align: center">1.597</td><td style="text-align: center">1.961</td><td style="text-align: center">1.892</td><td style="text-align: center">1.91</td><td style="text-align: center">1.587</td><td style="text-align: center">1.547</td><td style="text-align: center">1.603</td><td style="text-align: center">1.604</td><td style="text-align: center">1.584</td><td style="text-align: center">1.874</td><td style="text-align: center">1.599</td><td style="text-align: center">1.509</td><td style="text-align: center">1.947</td><td style="text-align: center">1.586</td><td style="text-align: center">1.946</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr><tr><td style="text-align: center">Edelweiss Broking Limited</td><td style="text-align: center">Edelweiss Mobile Trader App</td><td style="text-align: center">19 Nov 2026</td><td style="text-align: center">Logout Page</td><td style="text-align: center">0.5</td><td style="text-align: center">2</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.584</td><td style="text-align: center;background-color:#FF0000">5.08</td><td style="text-align: center;background-color:#FF0000">4.224</td><td style="text-align: center;background-color:#FF0000">5.532</td><td style="text-align: center;background-color:#FF0000">4.871</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.564</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.579</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.271</td><td style="text-align: center;background-color:#FF0000">4.871</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.894</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.224</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.903</td><td style="text-align: center;background-color:#FF0000">4.197</td><td style="text-align: center;background-color:#FF0000">4.171</td><td style="text-align: center;background-color:#FF0000">4.523</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.539</td><td style="text-align: center;background-color:#FF0000">5.554</td><td style="text-align: center;background-color:#FF0000">3.521</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.494</td><td style="text-align: center;background-color:#FF0000">4.575</td><td style="text-align: center;background-color:#FF0000">4.826</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.563</td><td style="text-align: center;background-color:#FF0000">4.539</td><td style="text-align: center;background-color:#FF0000">4.875</td><td style="text-align: center;background-color:#FF0000">4.211</td><td style="text-align: center;background-color:#FF0000">3.912</td><td style="text-align: center;background-color:#FF0000">4.901</td><td style="text-align: center;background-color:#FF0000">4.597</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">5.023</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.925</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.577</td><td style="text-align: center;background-color:#FF0000">5.202</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.861</td><td style="text-align: center;background-color:#FF0000">4.15</td><td style="text-align: center;background-color:#FF0000">3.904</td><td style="text-align: center;background-color:#FF0000">4.883</td><td style="text-align: center;background-color:#FF0000">4.53</td><td style="text-align: center;background-color:#FF0000">5.199</td><td style="text-align: center;background-color:#FF0000">4.891</td><td style="text-align: center;background-color:#FF0000">5.183</td><td style="text-align: center;background-color:#FF0000">4.146</td><td style="text-align: center;background-color:#FF0000">4.604</td><td style="text-align: center;background-color:#FF0000">3.87</td><td style="text-align: center;background-color:#FF0000">4.541</td><td style="text-align: center;background-color:#FF0000">4.221</td><td style="text-align: center;background-color:#FF0000">4.564</td><td style="text-align: center;background-color:#FF0000">4.149</td><td style="text-align: center;background-color:#FF0000">4.492</td><td style="text-align: center;background-color:#FF0000">4.866</td><td style="text-align: center;background-color:#FF0000">5.192</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.23</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.892</td><td style="text-align: center;background-color:#FF0000">4.207</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FF0000">4.562</td><td style="text-align: center;background-color:#FF0000">4.531</td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td><td style="text-align: center;background-color:#FFFF00"></td></tr></table></body></html>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="description" /><meta name="author" content="Unnayan Technology" />
+    <link rel="icon" href="../assets/img/basic/favicon.ico" type="image/x-icon" />
+    <title>
+	Dashboard by Unisky Technologies
+</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="../assets/css/app.css" />
+</head>
+<body class="light sidebar-mini sidebar-collapse">
+
+    <div id="app">
+        <aside class="main-sidebar fixed offcanvas b-r sidebar-tabs" data-toggle='offcanvas'>
+            <div class="sidebar">
+                <div class="d-flex hv-100 align-items-stretch">
+                    <div class="indigo text-white">
+                        <div class="nav mt-5 pt-5 flex-column nav-pills" id="v-pills-tab" role="tablist"
+                            aria-orientation="vertical">
+                            <a class="nav-link" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab"
+                                aria-controls="v-pills-home" aria-selected="true"><i class="icon-agenda"></i></a>
+
+                            <a class="nav-link" id="v-pills-settings-tab" href="../logout.aspx"><i class="icon-power-off"></i></a>
+
+                        </div>
+                    </div>
+                    <div class="tab-content flex-grow-1" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
+                            aria-labelledby="v-pills-home-tab">
+                            <div class="relative brand-wrapper sticky b-b">
+                                <div class="d-flex justify-content-between align-items-center p-3">
+                                    <div class="text-xs-center">
+                                        <span class="font-weight-lighter s-18">Menu</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <ul class="sidebar-menu">
+                                <li class="treeview">
+                                    <a href="landingPage.aspx">
+                                        <i class="icon icon-agenda s-24"></i><span>Dashboard</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="weeklyReport.aspx">
+                                        <i class="icon icon-analytics-2 s-24"></i><span>Weekly Report</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="monthlyReport.aspx">
+                                        <i class="icon icon-analytics-3 s-24"></i><span>Monthly Report</span>
+                                    </a>
+                                </li>
+                                
+                                
+                                
+                                <li class="treeview">
+                                    <a href="comparisonReport.aspx">
+                                        <i class="icon icon-axis s-24"></i><span>Analytics</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="EscalationMatrixView.aspx">
+                                        <i class="icon icon-schedule s-24"></i><span>Escalation Matrix</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="logViewDownload.aspx">
+                                        <i class="icon icon-schedule s-24"></i><span>Log View Download</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="downtimeLog.aspx">
+                                        <i class="icon icon-schedule s-24"></i><span>Downtime Log</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="userCreation.aspx">
+                                        <i class="icon icon-account_circle s-24"></i><span>User Creation</span>
+                                    </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="EscalationMatrix.aspx">
+                                        <i class="icon icon-schedule s-24"></i><span>Escalation Master</span>
+                                    </a>
+                                </li>
+                                
+                                <li class="treeview">
+                                    <a href="../logout.aspx">
+                                        <i class="icon icon-power-off s-24"></i><span>Logout</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <a href="#" data-toggle="push-menu" class="paper-nav-toggle left ml-2 fixed">
+            <i></i>
+        </a>
+        <div class="has-sidebar-left has-sidebar-tabs">
+            <!--#navbar-->
+            <div class="container-fluid animatedParent animateOnce">
+                <form method="post" action="./logViewDownLoad.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1" autocomplete="off" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="D8x6V12fc1efN/Qjj/Fw8F0/Z/UB2d/zwhr3MgFLMTRu13g5w/wdalhQKsp1bLPe4LJJ/KNQv6KXxxYH2jBS3UbpSyYyuazOoWTv2QX6HGahYnm3j16b0JHTsGbB5CPmIltVw8XlTDyYfun4EE1ZAstiCbgDAfqoe4tyS0OYXS3SuepTtuNzCH1sZKp5pvyNkW4YI59mM8vSKZ/0SJg0U0c0H6wbcDAQxZzXgIqzemTQbpeMeiQWta88RuIvH1mJ0NuvrCE5t5qhGGT3TnopD2d366hIvsPRPrvmpc8EArXLip0qWrccazPoad2XKa0jF+AD60PLW9WW4jWV8h5mHAVpdVFNwwzRtirMOl0tEYd0rEFRSA7i+7H4butPBbZRo/TGsM8vD+DknZWBlCTDtiwa3jO3hkQIC51sqhvqk1wcA8sMCVDNSjzz/FoGYmA5C560+mP6v/3BfjfqSnTxU1Slvh61J5uQcQ6PFByHDFljbaKBxqv7BV0RROx4wmXRbMhEdvTqYxSPuAc1Q6yi61dyTlxZSbEdREsohcBlDSoLGejlEBwvQTm3kuYej+V1+m13/H5gDUNCbZAZHCZ8jvCd76//ZH3uAFqYsiPwbZxzXFhRN32NJR9mX2hLWpLaayLvNinX3URjAKgITcLxVngdfQmneyFEell71PWgZYx6+x7jNvGhIbdA6cAC9Uzy2nInkQmvhzQXgpnWv/C80vruGY20kvRg9lQrKmX1dv9he+NJddCeuPp4FQAGT4WY6DMvrw/5RvQOsSp8VAc2L0t2b9+cfnhujHoIgMvYH/u+d4p6yU8+ejOxo0jwoi5Oe/MNq/HmN/EoeKFlNrtUwwPoOxvZP6UuETzc8uNHa7IkGpPKoiIj+ngZjEC7zf81yGF0v1aPZz9NxnVoN6dbUoEMjvxqhRD8wBmy1cmTYsYXi4yhzXpocgqH4NT4YHb0XasYDhK9B9VjjVbl1QhDRuVPNaqHu617jjU2x/Ka6+QNg1XpyHXT5c8STw6mX9EUp7rOmUPpGcWX4ASskBs7rG7HI95IOOOjw1XN6kGr+cBDVkga/2vzJrF9MZjhOmvqYWzymYhnyj2FTYNpl36cdoRaRW7rtWA9+nWOFRc3z62jKtxFdJbDnw1S9feWO139l3UYSJAcsZqi3HscsNlrt3nCINY8FCMwsY0zijZMfudHVP8zUVAdh6dnXPIC5qVUwAH5UIHfUoYAtpIdpNshIZbgpWvlt0NpGiM7SehKk7m1uFqKwEEdXTM/wc/ZrkxQV2pESO+AS3gUs9CittsUfQYPZGJR55lkG+rFHV6BsFfBMc4MdyGnfjIq3Y/WtBvmJ8YE0PNcO4EPnfvpburVxReoCB9RSt0oQ5A22k6ZZT3xeUwTTYn/iew1gyvC+glkG3WJgq52ukesIiJm7ADpuhtUvaGkhXwpuGzATLiCleaFk9x690Iulj+k5DoEbEmAJd6ghcu5R2WaXc/8Wlq5PGfFk++rNYbnQOxMpvW6YN9UegNDLOLUzMBiINnlsO4B0Lo6FBsKyUQSlrzhR3W9czrhwBvFLaiAFfGEEpCzHcdwuU/FRpWbAuMDblzNB/WFHsiUIvPJcc4LBo4pRpkpS//oMDdKumQyi+66S9lmJwYxxgKHCtKugNdjRHkIz5RsJAVnmwOWe/InWroOFvJW44jb433qqyjJmd9Ap2Pevd+w/rPD8cGOwxHgIX5cK2yvXjw6v4dHODYYpPdT7vucJHk2i7wPyJr8RCcjD9yuDm4AiBuQxxWgbsbQbs2C8fe5+S5qTA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=1p08RMjzMJ8B82Gem4zAZXyXPkEvoR1uZp33csJP2_b_o978Yl9Acpq5Hgk5A5c_q-dU33BNkzsFGNlzcoQTqC_mg2c1&amp;t=639190844600000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=m-ttEa6YO5z2I3h_HBgAykHnEzKGdR_NMXZLAlK38kUu_qIvRyQpwvCagZbkQURy_H3NfPO6qBlO39RNVGGN-MC_HcHbJ2UzcbzbdrORLKrmnQtEGcuQW4ukP8nLuhmNmuUV8xoTjalO4i5ua0qG3u3u9rg1&amp;t=ffffffff9fe38677" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TIXSNV2QE-UKm7cGKVyF6jf645_pjJP3gKANKrG9o3ye-Rr2rX3rVY3QpC-R5IIefz5of-B6WC8H6q2uzTjoXtvGMKqdzzOVNOGlNtK4YHMF873G7xA1WK_af38qtZmCCoN-li2eNag1jpVskG6f8FL1qd3YZmcVZMDjDWI255iqJVia0&amp;t=ffffffffbec1863d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=bOeoxn9vW000SH3dwI5Uv1PfkkrvzVha6lkGUA0HJDAlQRpytnk66WlfZwDDietewkEt-zyk5zPe87SZZkjyRYL9IDflRjWCQ4TzznER6NlEULp_1vjRibEZ20TRSWNeQ9OgrEO6oBbMOT0DQsLtX2PkMwvKBCTJbzvn4KgUpqabz-ta0&amp;t=ffffffffbec1863d" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E3E21419" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Y+qcDPYUwYlN0g+RYDK3Kof9MJxroUE9YvYwy2CjDXyNTGXtgTnQ2BleRIyA/Bn9rNN9AJ3mOhTLCglGP5OWxEQfV/Hgk/Tybi0DIIhYxzpFUqGNkP+mwprzaFjQbKFDUHfkhSZirO4NaWFzhwm8P4LvzzzFCJFyFVkx0P/uUOx0Ja7haqLkI/A6EHGvyAvm1Kgy03qae1STb+l+EBjz4WMT9LOCzRBcIj6CBTuwqaQUszTUETt/zVBR0pLh1GngL/eMbGY4+9AN2T1ixN7k22CLaPxjC7ICn+ihEtlQtHM8iVQ8q64qau16mKYe1F6jlA9LOcyeC/B9ONwxh/gEmg/4JnaoXsZX6XnCJ/mAWswISS1lM15Z9dRKkY80NenIljQOk0JgKI5GBi5Xzf+P32AdfCx4PlT0YOjLAIBYVeQKt6cdej1nGGzUZz6wUDnQYbDveigS6Ry3yOgQGzJFaUai8EyWbLwB414HB7Ydsw78obEyphsw955+kd7dIr838iv2QQdEI9BymEZH+50WZLDDPzEEyzbPFy1aenSATXNZbJA4jdhgB89M48xInyj/WQgA+9OBRr2zVRgDEbfTU+B6xmrfUBdljky0UAmpb0VMryaBZIIBH8hXkFICWYI27aiDQlLzA0vcAEsyZgJS+jNih8/R4r0vo4qn88Pd75/iXhFjr1avIPv8/XtE50WZfbdWVBM1RcstwWo/95FQULzzyC6DtURt3J4S/GvfN9h5ULATGb463P6JurVC5cld+M/0FJSbIN1rK15h6PP2DuHEF5I049hbrHXjfbmqJGqPX/hgmYfu5GnwtWkYba9wPFLaWKgg8N4gSh5xCJzGH5/nhS8kTrrJQmKCA2eFDf/RXNimPEx8i+M9s9R6r0HRjnSNiWeJb1NfcW03ISmwap8d/3IfFoAwZx4u9VO49l8DwDcuCDB1nQDdcx7loibEZTaZFNs13Ji2/IUBv2yquvhP9AVdsHl+HmGuD5y3ZxzKpKAnb4SWqZtpYHa9Vtk9uwjAQnid0u+ENC9QrgbWpDxD7XtaWkYZ++JZSt8vCOzwbyiH2scPCl2zUfrkvtjSAp6UcPODgWbU+HsniGy/3LXUWc6AJ+HLN6UMC/xO/DQ1W2Lwlqz7NoyGwmNYjCFeiExLmtF0WN4/XrY0PbmXsT80ROLd+hIiPaMVoszWyxFjYTFCAtLeAJWQKog1cJt6pDMs1SFLsSlxcChDug2N//ANL83kxsWSyfGuOYcn5E15nfokwZzRpsIAhcHje8J266f5YhWDftfGDXEx43X1cs3Ixd121SAFB8HznLqZxCtv4fU0" />
+</div>
+                    <script src="../js/jquery.3.3.1.min.js"></script>
+                    <script src="../js/Chart.js"></script>
+                    <script src="../assets/js/app.js"></script>
+                    <script src="../assets/js/jquery-ui.js"></script>
+                    <script src="../js/jsPDF.js"></script>
+                    <script src="../js/jsPDF.debug.js"></script>
+                    <script src="../js/html2canvas.js"></script>
+
+                    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManagerMain', 'form1', ['tctl00$cphMainContent$ctl00','cphMainContent_ctl00','tctl00$cphMainContent$ctl01','cphMainContent_ctl01'], ['ctl00$cphMainContent$ddlClient','cphMainContent_ddlClient','ctl00$cphMainContent$ddlApplication','cphMainContent_ddlApplication'], [], 90, 'ctl00');
+//]]>
+</script>
+
+                     
+                                
+    
+
+
+    <div class="animated fadeInUpShort">
+        <div class="row my-3">
+            <div class="col-md-12">
+                <div class="card no-b">
+                    <div class="card-body">
+                        <div class="form-row mt-1">
+                            <div class="form-group col-md-3 mt-2">
+                                
+                                <input name="ctl00$cphMainContent$dtDate" type="text" value="19 November 2026" id="cphMainContent_dtDate" class="dtDateLogDownload r-0 light s-12 form-control" placeholder="EOD Date" />
+                                <span id="cphMainContent_reqName1" class="uterror" style="display:none;">Please Select Date!</span>
+                                 <span id="cphMainContent_RequiredFieldValidator3" class="uterror" style="display:none;">Please Select Date!</span>
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <select name="ctl00$cphMainContent$ddlClient" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$cphMainContent$ddlClient\&#39;,\&#39;\&#39;)&#39;, 0)" id="cphMainContent_ddlClient" class="form-control r-0 light s-12" placeholder="Client">
+	<option value="0"></option>
+	<option value="1">DCB Bank Limited</option>
+	<option selected="selected" value="2">Edelweiss Broking Limited</option>
+	<option value="3">Reliance Securities Limited</option>
+	<option value="4">Ujjivan SFB</option>
+	<option value="5">EaseMyTrip Limited</option>
+	<option value="6">LINQUP</option>
+	<option value="7">Bamboo India</option>
+	<option value="8">IHCL</option>
+
+</select>
+                                <span id="cphMainContent_reqddlClient" class="uterror" style="display:none;">Please Select Client</span>
+                                 <span id="cphMainContent_RequiredFieldValidator4" class="uterror" style="display:none;">Please Select Client</span>
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <div id="cphMainContent_ctl00">
+	
+                                        <select name="ctl00$cphMainContent$ddlApplication" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$cphMainContent$ddlApplication\&#39;,\&#39;\&#39;)&#39;, 0)" id="cphMainContent_ddlApplication" class="form-control r-0 light s-12" placeholder="Application">
+		<option value="0"></option>
+		<option selected="selected" value="3">Edelweiss Mobile Trader App</option>
+		<option value="4">TX3</option>
+		<option value="10">Edelweiss Portal</option>
+		<option value="11">Edelweiss Equity Login</option>
+		<option value="12">Edelweiss Search Functionality</option>
+		<option value="13">Edelweiss Commodity Login</option>
+		<option value="21">Edelweiss Fin</option>
+		<option value="22">Edelweiss Partners</option>
+		<option value="23">Edelweiss Research</option>
+		<option value="25">Edelweiss MF</option>
+		<option value="26">Edelweiss Forex</option>
+		<option value="27">EMT Simplified Login</option>
+		<option value="34">Edelweiss CIP</option>
+		<option value="36">ECap Url</option>
+		<option value="51">Edelweiss IP2P</option>
+		<option value="54">Edelweiss Zuno Fiber</option>
+		<option value="55">Edelweiss Life Fiber</option>
+		<option value="67">Public Alts PMS</option>
+		<option value="68">Edelweiss ARC</option>
+		<option value="69">Edelweiss Public Alternatives</option>
+		<option value="71">Public Alts Empanelment</option>
+		<option value="72">Edelfinance</option>
+
+	</select>
+                                    
+</div>
+                                <span id="cphMainContent_RequiredFieldValidator1" class="uterror" style="display:none;">Please Select Application</span>
+                                <span id="cphMainContent_RequiredFieldValidator5" class="uterror" style="display:none;">Please Select Application</span>
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <div id="cphMainContent_ctl01">
+	
+                                        <select name="ctl00$cphMainContent$ddlPage" id="cphMainContent_ddlPage" class="form-control r-0 light s-12">
+		<option selected="selected" value="0"></option>
+		<option value="25">EMT Landing Page</option>
+		<option value="26">Login Page</option>
+		<option value="27">Password Entry Page</option>
+		<option value="28">Enter Year Of Birth Page</option>
+		<option value="29">Dashboard Page</option>
+		<option value="30">Watchlist Page</option>
+		<option value="31">Trade window Page</option>
+		<option value="32">Buy Order Page</option>
+		<option value="34">Order Status Page</option>
+		<option value="35">Rejected Reason Page</option>
+		<option value="36">Logout Page</option>
+
+	</select>
+                                    
+</div>
+                            </div>
+
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group col-md-3 mt-2">
+
+                                <select name="ctl00$cphMainContent$ddlStatus" id="cphMainContent_ddlStatus" class="form-control r-0 light s-12">
+	<option selected="selected" value="-1">All</option>
+	<option value="A">Available</option>
+	<option value="N">Not-Available</option>
+
+</select>
+
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <input name="ctl00$cphMainContent$txtIteration" type="text" value="15" id="cphMainContent_txtIteration" class="form-control r-0 light s-12" placeholder="Iteration" />
+                                <span id="cphMainContent_reqIteration" class="uterror" style="display:none;">Please Enter Iteration Value!</span>
+                            </div>
+                             <div class="form-group col-md-3 mt-2">
+                                <input type="file" name="ctl00$cphMainContent$fileUploadLog" id="cphMainContent_fileUploadLog" class="form-control r-0 light s-12" placeholder="LogFile" />
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <select name="ctl00$cphMainContent$ddlotpType" id="cphMainContent_ddlotpType" class="form-control r-0 light s-12">
+	<option selected="selected" value="NEFT">NEFT</option>
+	<option value="IMPS">IMPS</option>
+
+</select>
+                                <span id="cphMainContent_RequiredFieldValidator2" class="uterror" style="display:none;">Please Select OTP Service!</span>
+                                </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <input type="submit" name="ctl00$cphMainContent$btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphMainContent$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="cphMainContent_btnSearch" class="btn btn-primary" style="width:100%;" />
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <input type="submit" name="ctl00$cphMainContent$btnDownload" value="Download" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphMainContent$btnDownload&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="cphMainContent_btnDownload" class="btn btn-success" style="width:100%;" />
+                            </div>
+                             <div class="form-group col-md-3 mt-2">
+                                <input type="submit" name="ctl00$cphMainContent$btnUpload" value="Upload" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphMainContent$btnUpload&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="cphMainContent_btnUpload" class="btn btn-success" style="width:100%;" />
+                            </div>
+                            <div class="form-group col-md-3 mt-2">
+                                <input type="submit" name="ctl00$cphMainContent$btnOTPUpload" value="OTP" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphMainContent$btnOTPUpload&quot;, &quot;&quot;, true, &quot;OTP&quot;, &quot;&quot;, false, false))" id="cphMainContent_btnOTPUpload" class="btn btn-success" style="width:100%;" />
+                            </div>
+
+                        </div>
+                    </div>
+                    <hr />
+                   <div class="card-body">
+                        <div>
+
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("cphMainContent_reqName1"), document.getElementById("cphMainContent_RequiredFieldValidator3"), document.getElementById("cphMainContent_reqddlClient"), document.getElementById("cphMainContent_RequiredFieldValidator4"), document.getElementById("cphMainContent_RequiredFieldValidator1"), document.getElementById("cphMainContent_RequiredFieldValidator5"), document.getElementById("cphMainContent_reqIteration"), document.getElementById("cphMainContent_RequiredFieldValidator2"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var cphMainContent_reqName1 = document.all ? document.all["cphMainContent_reqName1"] : document.getElementById("cphMainContent_reqName1");
+cphMainContent_reqName1.controltovalidate = "cphMainContent_dtDate";
+cphMainContent_reqName1.errormessage = "Please Select Date!";
+cphMainContent_reqName1.display = "Dynamic";
+cphMainContent_reqName1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_reqName1.initialvalue = "";
+var cphMainContent_RequiredFieldValidator3 = document.all ? document.all["cphMainContent_RequiredFieldValidator3"] : document.getElementById("cphMainContent_RequiredFieldValidator3");
+cphMainContent_RequiredFieldValidator3.controltovalidate = "cphMainContent_dtDate";
+cphMainContent_RequiredFieldValidator3.errormessage = "Please Select Date!";
+cphMainContent_RequiredFieldValidator3.display = "Dynamic";
+cphMainContent_RequiredFieldValidator3.validationGroup = "OTP";
+cphMainContent_RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_RequiredFieldValidator3.initialvalue = "";
+var cphMainContent_reqddlClient = document.all ? document.all["cphMainContent_reqddlClient"] : document.getElementById("cphMainContent_reqddlClient");
+cphMainContent_reqddlClient.controltovalidate = "cphMainContent_ddlClient";
+cphMainContent_reqddlClient.display = "Dynamic";
+cphMainContent_reqddlClient.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_reqddlClient.initialvalue = "0";
+var cphMainContent_RequiredFieldValidator4 = document.all ? document.all["cphMainContent_RequiredFieldValidator4"] : document.getElementById("cphMainContent_RequiredFieldValidator4");
+cphMainContent_RequiredFieldValidator4.controltovalidate = "cphMainContent_ddlClient";
+cphMainContent_RequiredFieldValidator4.display = "Dynamic";
+cphMainContent_RequiredFieldValidator4.validationGroup = "OTP";
+cphMainContent_RequiredFieldValidator4.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_RequiredFieldValidator4.initialvalue = "0";
+var cphMainContent_RequiredFieldValidator1 = document.all ? document.all["cphMainContent_RequiredFieldValidator1"] : document.getElementById("cphMainContent_RequiredFieldValidator1");
+cphMainContent_RequiredFieldValidator1.controltovalidate = "cphMainContent_ddlApplication";
+cphMainContent_RequiredFieldValidator1.display = "Dynamic";
+cphMainContent_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_RequiredFieldValidator1.initialvalue = "0";
+var cphMainContent_RequiredFieldValidator5 = document.all ? document.all["cphMainContent_RequiredFieldValidator5"] : document.getElementById("cphMainContent_RequiredFieldValidator5");
+cphMainContent_RequiredFieldValidator5.controltovalidate = "cphMainContent_ddlApplication";
+cphMainContent_RequiredFieldValidator5.display = "Dynamic";
+cphMainContent_RequiredFieldValidator5.validationGroup = "OTP";
+cphMainContent_RequiredFieldValidator5.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_RequiredFieldValidator5.initialvalue = "0";
+var cphMainContent_reqIteration = document.all ? document.all["cphMainContent_reqIteration"] : document.getElementById("cphMainContent_reqIteration");
+cphMainContent_reqIteration.controltovalidate = "cphMainContent_txtIteration";
+cphMainContent_reqIteration.errormessage = "Please Enter Iteration Value!";
+cphMainContent_reqIteration.display = "Dynamic";
+cphMainContent_reqIteration.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_reqIteration.initialvalue = "";
+var cphMainContent_RequiredFieldValidator2 = document.all ? document.all["cphMainContent_RequiredFieldValidator2"] : document.getElementById("cphMainContent_RequiredFieldValidator2");
+cphMainContent_RequiredFieldValidator2.controltovalidate = "cphMainContent_ddlotpType";
+cphMainContent_RequiredFieldValidator2.errormessage = "Please Select OTP Service!";
+cphMainContent_RequiredFieldValidator2.display = "Dynamic";
+cphMainContent_RequiredFieldValidator2.validationGroup = "OTP";
+cphMainContent_RequiredFieldValidator2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphMainContent_RequiredFieldValidator2.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('cphMainContent_reqName1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_reqName1'));
+}
+
+document.getElementById('cphMainContent_RequiredFieldValidator3').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_RequiredFieldValidator3'));
+}
+
+document.getElementById('cphMainContent_reqddlClient').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_reqddlClient'));
+}
+
+document.getElementById('cphMainContent_RequiredFieldValidator4').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_RequiredFieldValidator4'));
+}
+
+document.getElementById('cphMainContent_RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_RequiredFieldValidator1'));
+}
+
+document.getElementById('cphMainContent_RequiredFieldValidator5').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_RequiredFieldValidator5'));
+}
+
+document.getElementById('cphMainContent_reqIteration').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_reqIteration'));
+}
+
+document.getElementById('cphMainContent_RequiredFieldValidator2').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('cphMainContent_RequiredFieldValidator2'));
+}
+//]]>
+</script>
+</form>
+            </div>
+        </div>
+    </div>
+    <link rel="stylesheet" href="../assets/css/jquery-ui.css" />
+
+    <style>
+		canvas{
+			-moz-user-select: none;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+		}
+		#chartjs-tooltip, #chartjs-tooltip1 {
+			opacity: 1;
+            width: max-content;
+			position: absolute;
+			background: rgba(0, 0, 0, .7);
+			color: white;
+			border-radius: 3px;
+			-webkit-transition: all .1s ease;
+			transition: all .1s ease;
+			pointer-events: none;
+			-webkit-transform: translate(-50%, 0);
+			transform: translate(-50%, 0);
+            z-index:10;
+		}
+
+		.chartjs-tooltip-key {
+			display: inline-block;
+			width: 10px;
+			height: 10px;
+			margin-right: 10px;
+		}
+	</style>
+    <script>
+        var customTooltips = function (tooltip) {
+            // Tooltip Element
+            var tooltipEl = document.getElementById('chartjs-tooltip');
+
+            if (!tooltipEl) {
+                tooltipEl = document.createElement('div');
+                tooltipEl.id = 'chartjs-tooltip';
+                tooltipEl.innerHTML = '<table></table>';
+                this._chart.canvas.parentNode.appendChild(tooltipEl);
+            }
+
+            // Hide if no tooltip
+            if (tooltip.opacity === 0) {
+                tooltipEl.style.opacity = 0;
+                return;
+            }
+
+            // Set caret Position
+            tooltipEl.classList.remove('above', 'below', 'no-transform');
+            if (tooltip.yAlign) {
+                tooltipEl.classList.add(tooltip.yAlign);
+            } else {
+                tooltipEl.classList.add('no-transform');
+            }
+
+            function getBody(bodyItem) {
+                return bodyItem.lines;
+            }
+
+            // Set Text
+            if (tooltip.body) {
+                var titleLines = tooltip.title || [];
+                var bodyLines = tooltip.body.map(getBody);
+
+                var innerHtml = '<thead>';
+
+                titleLines.forEach(function (title) {
+                    innerHtml += '<tr><th>' + title + '</th></tr>';
+                });
+                innerHtml += '</thead><tbody>';
+
+                bodyLines.forEach(function (body, i) {
+                    var colors = tooltip.labelColors[i];
+                    var style = 'background:' + colors.backgroundColor;
+                    style += '; border-color:' + colors.borderColor;
+                    style += '; border-width: 2px';
+                    var span = '<span class="chartjs-tooltip-key" style="' + style + '"></span>';
+                    innerHtml += '<tr><td>' + span + body + '</td></tr>';
+                });
+                innerHtml += '</tbody>';
+
+                var tableRoot = tooltipEl.querySelector('table');
+                tableRoot.innerHTML = innerHtml;
+            }
+
+            var positionY = this._chart.canvas.offsetTop;
+            var positionX = this._chart.canvas.offsetLeft;
+
+            // Display, position, and set styles for font
+            tooltipEl.style.opacity = 1;
+            tooltipEl.style.left = positionX + tooltip.caretX + 'px';
+            tooltipEl.style.top = positionY + tooltip.caretY + 'px';
+            tooltipEl.style.fontFamily = tooltip._bodyFontFamily;
+            tooltipEl.style.fontSize = tooltip.bodyFontSize + 'px';
+            tooltipEl.style.fontStyle = tooltip._bodyFontStyle;
+            tooltipEl.style.padding = tooltip.yPadding + 'px ' + tooltip.xPadding + 'px';
+        };
+    </script>
+    <script>
+        var customTooltips1 = function (tooltip) {
+            // Tooltip Element
+            var tooltipEl = document.getElementById('chartjs-tooltip1');
+
+            if (!tooltipEl) {
+                tooltipEl = document.createElement('div');
+                tooltipEl.id = 'chartjs-tooltip1';
+                tooltipEl.innerHTML = '<table></table>';
+                this._chart.canvas.parentNode.appendChild(tooltipEl);
+            }
+
+            // Hide if no tooltip
+            if (tooltip.opacity === 0) {
+                tooltipEl.style.opacity = 0;
+                return;
+            }
+
+            // Set caret Position
+            tooltipEl.classList.remove('above', 'below', 'no-transform');
+            if (tooltip.yAlign) {
+                tooltipEl.classList.add(tooltip.yAlign);
+            } else {
+                tooltipEl.classList.add('no-transform');
+            }
+
+            function getBody(bodyItem) {
+                return bodyItem.lines;
+            }
+
+            // Set Text
+            if (tooltip.body) {
+                var titleLines = tooltip.title || [];
+                var bodyLines = tooltip.body.map(getBody);
+
+                var innerHtml = '<thead>';
+
+                titleLines.forEach(function (title) {
+                    innerHtml += '<tr><th>' + title + '</th></tr>';
+                });
+                innerHtml += '</thead><tbody>';
+
+                bodyLines.forEach(function (body, i) {
+                    var colors = tooltip.labelColors[i];
+                    var style = 'background:' + colors.backgroundColor;
+                    style += '; border-color:' + colors.borderColor;
+                    style += '; border-width: 2px';
+                    var span = '<span class="chartjs-tooltip-key" style="' + style + '"></span>';
+                    innerHtml += '<tr><td>' + span + body + '</td></tr>';
+                });
+                innerHtml += '</tbody>';
+
+                var tableRoot = tooltipEl.querySelector('table');
+                tableRoot.innerHTML = innerHtml;
+            }
+
+            var positionY = this._chart.canvas.offsetTop;
+            var positionX = this._chart.canvas.offsetLeft;
+
+            // Display, position, and set styles for font
+            tooltipEl.style.opacity = 1;
+            tooltipEl.style.left = positionX + tooltip.caretX + 'px';
+            tooltipEl.style.top = positionY + tooltip.caretY + 'px';
+            tooltipEl.style.fontFamily = tooltip._bodyFontFamily;
+            tooltipEl.style.fontSize = tooltip.bodyFontSize + 'px';
+            tooltipEl.style.fontStyle = tooltip._bodyFontStyle;
+            tooltipEl.style.padding = tooltip.yPadding + 'px ' + tooltip.xPadding + 'px';
+        };
+    </script>
+    <script>
+        $(function () {
+            var dateFormat = "dd MM yy",
+              from = $("#dtDateFrom")
+                .datepicker({
+                    
+                    changeMonth: true,
+                    changeYear: true,
+                    numberOfMonths: 1,
+                    dateFormat: dateFormat,
+                    maxDate: "-7D"
+                })
+                .on("change", function () {
+                    to.datepicker("option", "minDate", getDate(this));
+                    var todate = new Date(getDate(this));
+                    var fd = new Date(todate.setDate(todate.getDate() + 6));
+                    if (fd > new Date())
+                    {
+                        fd = new Date();
+                    }
+                    to.datepicker("option", "maxDate", fd);
+                }),
+              to = $("#dtDateTo").datepicker({
+                  
+                  changeMonth: true,
+                  changeYear: true,
+                  dateFormat: dateFormat,
+                  numberOfMonths: 1
+              })
+              .on("change", function () {
+                  from.datepicker("option", "maxDate", getDate(this));
+              });
+
+            fromMonth = $("#dtDateFromMonthly")
+                .datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    showButtonPanel: true,
+                    dateFormat: 'MM yy',
+                    maxDate: "+0D",
+                    onClose: function (dateText, inst) {
+                        $(this).datepicker('setDate', new Date(inst.selectedYear, inst.selectedMonth, 1));
+                    }
+                });
+
+            fromCompare = $("#dtDateFromCompare")
+                .datepicker({
+                    defaultDate: "+0D",
+                    changeMonth: true,
+                    changeYear: true,
+                    numberOfMonths: 3,
+                    maxDate: "+0D"
+                })
+                .on("change", function () {
+                    toCompare.datepicker("option", "minDate", getDate(this));
+                }),
+              toCompare = $("#dtDateToCompare").datepicker({
+                  defaultDate: "+0D",
+                  changeMonth: true,
+                  changeYear: true,
+                  numberOfMonths: 3,
+                  maxDate: "+0D"
+              });
+            //Log View Date Control
+            dtDateLog = $(".dtDateLog")
+                .datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: dateFormat,
+                    maxDate: "+0D"
+                });
+
+            //Log View Download Date Control
+            dtDateLogDownload = $(".dtDateLogDownload")
+                .datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: dateFormat,
+                    maxDate: "+0D"
+                });
+            //DownTime Log Date Control
+            dtDateLogDownload = $(".dtEDDownTime")
+                .datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: dateFormat,
+                    maxDate: "+0D"
+                });
+            //Dashboard EOD Date Control
+            dtDateLogDownload = $(".dtCDEOD")
+                .datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: dateFormat,
+                    maxDate: "-1D"
+                });
+
+            function getDate(element) {
+                var date;
+                try {
+                    date = $.datepicker.parseDate(dateFormat, element.value);
+                } catch (error) {
+                    date = null;
+                }
+
+                return date;
+            }
+        });
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60449474-22"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-60449474-22');
+</script>
+
+</body>
+</html>
