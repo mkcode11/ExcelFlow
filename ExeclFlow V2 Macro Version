@@ -1,0 +1,72 @@
+Sub DeleteExtra15MinColumnsWithSeconds()
+    Dim headerRow As Long
+    Dim startCol As Long, lastCol As Long
+    Dim col As Long
+    Dim cellVal As Variant
+    Dim dt As Date
+    Dim bucketKey As String
+    Dim seenBuckets As Object
+    Dim colsToDelete As Collection
+    Dim i As Long
+    
+    ' --- SETTINGS (Adjust if your headers are not in Row 1) ---
+    headerRow = 1
+    startCol = 1 ' Column A = 1 (Change to 2 if Column A has row labels)
+    ' ----------------------------------------------------------
+    
+    Set seenBuckets = CreateObject("Scripting.Dictionary")
+    Set colsToDelete = New Collection
+    
+    lastCol = Cells(headerRow, Columns.Count).End(xlToLeft).Column
+    
+    ' Loop left-to-right to keep the FIRST column in each 15-min block
+    For col = startCol To lastCol
+        cellVal = Cells(headerRow, col).Value
+        
+        If Not IsEmpty(cellVal) Then
+            ' Parse both numeric Excel times and text strings (e.g., "00:14:09" or "00:05")
+            If IsDate(cellVal) Then
+                dt = CDate(cellVal)
+            ElseIf IsNumeric(cellVal) And cellVal >= 0 Then
+                dt = CDate(cellVal)
+            Else
+                GoTo NextCol
+            End If
+            
+            ' Group into 15-min intervals ignoring seconds:
+            ' Block 0: 00:00:00 - 00:14:59
+            ' Block 1: 00:15:00 - 00:29:59
+            ' Block 2: 00:30:00 - 00:44:59
+            ' Block 3: 00:45:00 - 00:59:59
+            bucketKey = Int(CDbl(dt)) & "_" & Hour(dt) & "_" & (Minute(dt) \ 15)
+            
+            If seenBuckets.Exists(bucketKey) Then
+                ' Second (or subsequent) column in this 15-min window -> mark for deletion
+                colsToDelete.Add col
+            Else
+                ' First column in this 15-min window -> keep it
+                seenBuckets.Add bucketKey, col
+            End If
+        End If
+NextCol:
+    Next col
+    
+    If colsToDelete.Count = 0 Then
+        MsgBox "No extra 15-minute columns found.", vbInformation, "Done - Made by Mohit"
+        Exit Sub
+    End If
+    
+    If MsgBox("Found " & colsToDelete.Count & " extra column(s) in 15-minute intervals. Delete them?", _
+              vbQuestion + vbYesNo, "Confirm Deletion - Made by Mohit") <> vbYes Then
+        Exit Sub
+    End If
+    
+    Application.ScreenUpdating = False
+    ' Delete from right to left so column numbers do not shift
+    For i = colsToDelete.Count To 1 Step -1
+        Columns(colsToDelete(i)).Delete Shift:=xlToLeft
+    Next i
+    Application.ScreenUpdating = True
+    
+    MsgBox "Deleted " & colsToDelete.Count & " extra column(s).", vbInformation, "Done - Made by Mohit"
+End Sub
